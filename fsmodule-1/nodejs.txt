@@ -1,0 +1,6 @@
+NODE JS:-
+===============
+opening a file in vs code 
+step:-1) create a folder in file manager and open the folder 
+step:-2) now open the file and open cmd and type npm init -y
+step:-3) now open vs code there the package .json file will be opend in that  file type this command  "type":"module", now it will opened.
